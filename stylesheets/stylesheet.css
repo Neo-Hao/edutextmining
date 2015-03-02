@@ -191,6 +191,11 @@ img.center {
   margin-right: auto;
 }
 
+img.left {
+  float: left;
+  margin: 10px;
+}
+
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
