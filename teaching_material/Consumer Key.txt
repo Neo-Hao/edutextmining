@@ -1,2 +1,0 @@
-consumer_key <- "uC9L8BG1PX9FVjfpVlqaKX5GC"
-consumer_secret <- "tWrpquA5sRg5GA6i1Vjlagpd2lYlKjTfSk6dgSI2ZPUQdatUuJ"
